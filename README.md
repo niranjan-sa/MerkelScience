@@ -40,5 +40,6 @@ The scraped data is maintained in the respective .csv and .json files.
 Bugs -   
 * Was able to scrape the date/time. But as the mapping of post date-time <-> post was going wrong at times, I've commented it out.  
 * Extraction of page number as highlighted in the page.
+
+Thanks.  
 (This repo doesn't contain the code that puts the processed data into MongoDB)
-Thanks.
